@@ -1,0 +1,10 @@
+torch==2.6.0
+torchvision==0.21.0
+albumentations==2.0.4
+Pillow==11.1.0
+numpy==2.0.2
+tqdm==4.67.1
+IPython==8.32.0
+matplotlib==3.10.0
+opencv-python==4.11.0.86
+scipy==1.15.1
